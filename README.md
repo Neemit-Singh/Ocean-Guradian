@@ -12,7 +12,7 @@ This is a static HTML and CSS-based educational website focused on raising aware
 - Encourage sustainable behaviors and environmental stewardship
 
 ## 📁 File Structure
-├── 8504981b-271a-4351-829a-479af26b2e4c.html # Main HTML file
+├── about.html # Main HTML file
 ├── mainlogo.png # (Expected) Main logo image
 ├── rmlogoo.png # (Expected) Secondary logo image
 ├── [linked pages]
@@ -47,7 +47,7 @@ This is a static HTML and CSS-based educational website focused on raising aware
 
 1. Download or clone the repository.
 2. Ensure all assets (logos, linked HTML pages) are in the same folder.
-3. Open `8504981b-271a-4351-829a-479af26b2e4c.html` in your browser.
+3. Open `about.html` in your browser.
 4. Modify the content as needed for your campaign or educational use.
 
 ## 🚀 Deployment Suggestions
